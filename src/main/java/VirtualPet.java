@@ -30,6 +30,6 @@ public abstract class VirtualPet {
 
     public void play(int toy){
         happiness += toy;
-        health ++;}
+        health += 5;}
 
 }
